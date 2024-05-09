@@ -35,3 +35,5 @@ This is a simple task management application built with React. It allows users t
 - HTML5
 - CSS3
 - Bootstrap
+
+view=>https://todo-app-react-sri2403.netlify.app/
